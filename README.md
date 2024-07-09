@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nashselander
 - 👀 I’m interested in programming, gaming, and cars
-- 🌱 I’m currently working on my Computer Science degree at MSUM
+- 🌱 I’m currently working as a software dev
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Reach me at nashselander@gmail.com
